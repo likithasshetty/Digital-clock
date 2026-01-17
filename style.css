@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(184, 168, 168);
+}
+#clock{
+  color: rgb(63, 49, 29);
+  font-size: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 95vh;
+  letter-spacing: 10px;
+}
